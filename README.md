@@ -31,3 +31,7 @@ The Flutter client app connects seamlessly to the Socket.io server, enabling rea
 - Incoming messages from the server are promptly displayed within the app.
 - The app incorporates predefined commands for seamless interaction with the server.
 - Pressing the back button seamlessly disconnects the app from the server.
+
+
+## Feedback
+If you have any feedback, please reach out to us at dev.adnani26@gmail.com
